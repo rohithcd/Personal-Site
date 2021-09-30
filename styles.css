@@ -1,3 +1,10 @@
+/* Added poppins font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
 .top-container
 {
   background-color: #E4F9F5;
